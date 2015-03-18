@@ -582,4 +582,6 @@
   <project path="device/lge/ls970-common" name="vardyrunks/device_lge_ls970-common" remote="github" revision="lp" />
   <project path="kernel/lge/gproj" name="vardyrunks/lge-kernel-gproj" remote="github" revision="lp" />
   <project path="device/lge/gproj-common" name="vardyrunks/android_device_lge_gproj-common" remote="github" revision="lp" />
+  <project path="vendor/lge" name="vardyrunks/proprietary_vendor_lge" remote="github" revision="lp" />
+
 </manifest>
